@@ -1,2 +1,3 @@
-# devops1
-Setting CI/CD pipeline
+# maven-project
+
+Simple Maven Project
